@@ -1,2 +1,5 @@
 Name: Au Chun Man
-SID: 20533728ß
+<br>
+SID: 20533728
+
+![History image](lab1.png)
